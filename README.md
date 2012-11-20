@@ -4,6 +4,9 @@ Based off of functional reactive programming, oscillo gives you a signal that
 represents a value changing over time. You can manipulate signals and combine
 them together in various ways.
 
+- source: https://github.com/evant/oscillo
+- documentation: http://rubydoc.info/gems/oscillo/0.0.1/frames
+
 ## Installation
 
 Add this line to your application's Gemfile:
